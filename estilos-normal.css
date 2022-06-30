@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.2s;
+}
+.btnChangeCSS{
+    width: 12%;
+    margin-left: 44%;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 700;
+    background: #1d9bf0;
+    color: #ffffff;
+    border-radius: 25px;
+}
+
+.btnChangeCSS:hover{
+    background: #0673bb;
+}
+
+h1,p{
+    text-align: center;
+}
+
+p{
+font-size: 18px;
+}
+
+#addthought{
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+
+#blockText{
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+
+.textoForm{
+    margin-left: 10%;
+    width: 80%;
+    height: 45px;
+    border-radius: 4px ;
+    font-size: 18px;
+}
+
+#btnSubmit{
+    width: 80%;
+    margin-left: 10%;
+    height: 45px;
+    font-size: 18px;
+    border-radius: 25px;
+}
+
+.mythoughts{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.elementList{
+    list-style: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    width: 12rem;
+    height: 12rem;
+    border-radius: 25px;
+    font-size: 18px;
+}

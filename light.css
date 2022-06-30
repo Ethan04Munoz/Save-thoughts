@@ -1,0 +1,26 @@
+
+body{
+    background: #ececec;
+}
+
+h1,p{
+    color: #1b1b1b;
+}
+
+#addthought{
+    background: #ffffff;
+}
+
+#blockText{
+    background: #ffffff;
+}
+
+.elementList{
+    background: #AECBFA;
+    color: #000000;
+}
+
+.textoForm{
+    background: #ffffff;
+    color: #000000;
+}
